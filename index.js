@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 
 app.set('view engine','ejs');
 
-mongoose.connect("mongodb://localhost:27017/calendar",{useNewUrlParser: true, useUnifiedTopology: true})
+mongoose.connect("mongodb://localhost:27017/agendamento",{useNewUrlParser: true, useUnifiedTopology: true})
 mongoose.set('useFindAndModify', false);
 
 app.get("/", (req, res) => {
@@ -73,7 +73,7 @@ app.get("/searchresult", async (req, res) => {
 })
 
 
-var pollTime = 1000 * 60;
+var pollTime = 5000;
 
 setInterval(async () => {
     
