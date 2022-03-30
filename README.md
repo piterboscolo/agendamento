@@ -13,6 +13,8 @@
 
 **Inicio do Projeto**
 
+Bibliotecas a serem instaladas
+
 ![image](https://user-images.githubusercontent.com/88910148/160729668-e771dbd4-0391-44bb-9a23-f7f052eb48af.png)
 
 ![image](https://user-images.githubusercontent.com/88910148/160729707-8e0dce46-03f2-4b72-95f0-200e3cf86e37.png)
