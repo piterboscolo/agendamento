@@ -74,6 +74,11 @@ index.js
 ![image](https://user-images.githubusercontent.com/88910148/160734753-081c1813-4086-4e28-acc0-ea82865ad857.png)
 
 
+**Notificação com Mailtrap**
+
+![image](https://user-images.githubusercontent.com/88910148/160800349-3b0733db-b228-412f-ab40-a14e13a9e698.png)
+
+
 
 
 
