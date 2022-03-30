@@ -1,4 +1,4 @@
-# diary - Sistema de Agendamento com MongoDB
+# diary - Sistema de Agendamento com Mailtrap
 
 1. Sistema de agendamento (consultórios, empresas, escolas, reuniões e etc) onde se trabalhou com a questão de datas e agendamento e queira exibir os eventos agendados;
 2. Utilizado o FullCalendar https://fullcalendar.io/ 
