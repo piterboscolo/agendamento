@@ -92,3 +92,7 @@ realizar a seguinte configuração...
 
 ![image](https://user-images.githubusercontent.com/88910148/160805895-b55e65c8-9f58-4460-bfc1-62b434761d43.png)
 
+
+
+
+https://www.linkedin.com/in/piterson-boscolo-b640b9139/
