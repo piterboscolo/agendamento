@@ -1,2 +1,2 @@
-# diary - Sistema de Agendamento
+# diary - Sistema de Agendamento com MongoDB
 
