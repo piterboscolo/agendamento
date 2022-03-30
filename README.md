@@ -67,7 +67,7 @@ index.ejs ![image](https://user-images.githubusercontent.com/88910148/160733558-
 ![image](https://user-images.githubusercontent.com/88910148/160734167-e8dcd9cd-9f5a-43aa-807f-5cb3f8c68812.png)
 
 
-**Tasks com setInterval
+**Tasks com setInterval**
 
 index.js
 
@@ -78,7 +78,17 @@ index.js
 
 ![image](https://user-images.githubusercontent.com/88910148/160800349-3b0733db-b228-412f-ab40-a14e13a9e698.png)
 
+Mailtrap:   https://mailtrap.io/inboxes
+
+=> configurando o mailtrap: My Inbox, na aba SMTP Settings, clicar em Show Credentials e copiar a configuração para o projeto
 
 
+![image](https://user-images.githubusercontent.com/88910148/160805432-3001b7a4-5ce7-48b0-ba01-fbecc911f5e0.png)
 
+
+No arquivo ![image](https://user-images.githubusercontent.com/88910148/160805696-410c0853-beff-4aea-8db9-f8aea72e7505.png)
+
+realizar a seguinte configuração...
+
+![image](https://user-images.githubusercontent.com/88910148/160805895-b55e65c8-9f58-4460-bfc1-62b434761d43.png)
 
